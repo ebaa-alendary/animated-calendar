@@ -5,8 +5,8 @@ use yii\web\AssetBundle;
 
 class CalendarAppAsset extends AssetBundle
 {
-    public $basePath = '@webroot';
-    public $baseUrl = '@web';
+    public $basePath = '@app/vendor/animated-calendary/yii2-animated-calendary';
+    public $baseUrl = '@app/vendor/animated-calendary/yii2-animated-calendary';
     public $css = [
         'src/css/calendar-gc.css',
     ];
