@@ -1,0 +1,20 @@
+{
+  "name": "animated-calendary/yii2-animated-calendary",
+  "description": "PHP library to make calendar",
+  "type": "yii2-extension",
+  "license": "Apache-2.0",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Ebaa Alendary",
+      "email": "ebaa.alendary@illaftrain.co.uk"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "AnimatedCalendar\\Yii2AnimatedCalendar\\": "src/"
+    }
+  }
+}
